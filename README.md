@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ... Python Full Stack @ Coding Dojo
+- 🌱 I’m currently learning ... Machine Learning with Scikit-learn, Keras & TensorFlow
 - 📫 How to reach me: ... dylanmurphydba@gmail.com
 <!--
 **dylanPMurphy/dylanPMurphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
