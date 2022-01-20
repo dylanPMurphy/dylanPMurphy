@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ... Docker Orchestration
+- 🌱 I’m currently learning ... Data Science with Python
 - 📫 How to reach me: ... dylanmurphydba@gmail.com
 - 🌐 My Website: ... [https://www.dylanpmurphy.com](https://www.dylanpmurphy.com)
 - ⚡ Languages: Python, Java, Html, CSS, Javascript, C
